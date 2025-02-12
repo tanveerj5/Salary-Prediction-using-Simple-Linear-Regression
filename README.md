@@ -32,6 +32,15 @@ To run this project, the following libraries are required:
 - `seaborn`: For enhanced data visualization.
 - `sklearn`: For machine learning model training and evaluation.
 
+## Metric Score
+![alt text](https://github.com/tanveerj5/Salary-Prediction-using-Simple-Linear-Regression/blob/main/score.png)
+
+## Train Set
+![alt text](https://github.com/tanveerj5/Salary-Prediction-using-Simple-Linear-Regression/blob/main/tain%20output.png)
+
+## Test Set
+![alt text](https://github.com/tanveerj5/Salary-Prediction-using-Simple-Linear-Regression/blob/main/test%20output.png)
+
 Install the dependencies using:
 ```bash
 pip install pandas numpy matplotlib seaborn scikit-learn
